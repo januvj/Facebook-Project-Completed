@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15242" started-at="2023-01-12T10:12:46 IST" finished-at="2023-01-12T10:13:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15242" started-at="2023-01-12T10:12:46 IST" finished-at="2023-01-12T10:13:01 IST">
+      <class name="com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="browserLaunch" is-config="true" duration-ms="3170" started-at="2023-01-12T10:12:46 IST" finished-at="2023-01-12T10:12:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="launchUrl" is-config="true" duration-ms="1215" started-at="2023-01-12T10:12:49 IST" finished-at="2023-01-12T10:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="checkurl()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="checkurl" duration-ms="8" started-at="2023-01-12T10:12:51 IST" finished-at="2023-01-12T10:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkurl -->
+        <test-method status="PASS" signature="click()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="click" duration-ms="4416" started-at="2023-01-12T10:12:51 IST" finished-at="2023-01-12T10:12:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="navigateurl()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="navigateurl" duration-ms="1122" started-at="2023-01-12T10:12:55 IST" finished-at="2023-01-12T10:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateurl -->
+        <test-method status="PASS" signature="username()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="username" duration-ms="248" started-at="2023-01-12T10:12:56 IST" finished-at="2023-01-12T10:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method status="PASS" signature="password()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="password" duration-ms="406" started-at="2023-01-12T10:12:56 IST" depends-on-methods="com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng.username" finished-at="2023-01-12T10:12:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="formfilling()[pri:5, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="formfilling" duration-ms="1751" started-at="2023-01-12T10:12:57 IST" finished-at="2023-01-12T10:12:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formfilling -->
+        <test-method status="PASS" signature="signupclick()[pri:6, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="signupclick" duration-ms="615" started-at="2023-01-12T10:12:59 IST" finished-at="2023-01-12T10:12:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupclick -->
+        <test-method status="PASS" signature="title()[pri:7, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="title" duration-ms="1680" started-at="2023-01-12T10:12:59 IST" finished-at="2023-01-12T10:13:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="closewebpage()[pri:0, instance:com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng@7b69c6ba]" name="closewebpage" is-config="true" duration-ms="533" started-at="2023-01-12T10:13:01 IST" finished-at="2023-01-12T10:13:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewebpage -->
+      </class> <!-- com.spt.facebook.Facebook.Mini.Facebook_testng$Amazon_testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
